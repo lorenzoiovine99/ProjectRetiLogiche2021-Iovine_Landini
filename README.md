@@ -5,7 +5,7 @@ at Politecnico di Milano. (2020/2021)
 
 **Teacher** Fabio Salice
 
-![Image of the game](Unequalized.jpg) ![Image of the game](Equalized.jpg)
+![Image](images/Unequalized.jpg) ![Image](images/Equalized.jpg)
 
 ## Authors
 * [Lorenzo Iovine](https://github.com/lorenzoiovine99)
